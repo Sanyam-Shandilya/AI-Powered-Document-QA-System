@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+qdrant-client
+pydantic
+tiktoken
+pymupdf
+pytesseract
